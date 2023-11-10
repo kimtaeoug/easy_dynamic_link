@@ -1,9 +1,9 @@
-<h1 align="center">Easy Dynamic Link</h1>  
-## 😀 About Easy Dynamic Link
+<h1>Easy Dynamic Link</h1>   
+## 😀 About Easy Dynamic Link  
 This is a project that makes the dynamic link in Firebase easy to use. The features in this project are as follows.  
-+ Dynamic Link Handler
-+ make Dyanmic Link easily
-> To use the project, you must set firebase on the app by default.
++ Dynamic Link Handler  
++ make Dyanmic Link easily  
+> To use the project, you must set firebase on the app by default.  
 ## Usage  
 ```dart
     final EasyDL _easyDL = EasyDL();
